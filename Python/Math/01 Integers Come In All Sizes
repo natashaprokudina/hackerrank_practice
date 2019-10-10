@@ -1,0 +1,6 @@
+# https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem
+# Score: 10
+
+a, b, c, d = int(input()), int(input()), int(input()), int(input())
+res = a ** b + c ** d
+print(res)
